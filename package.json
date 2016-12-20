@@ -1,0 +1,17 @@
+{
+  "name": "chat_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kaya Ota",
+  "license": "ISC",
+  "dependencies": {
+    "bower": "^1.8.0",
+    "gulp": "^3.9.1",
+    "slush": "^1.1.1",
+    "slush-wean": "^0.1.9"
+  }
+}
