@@ -1,3 +1,16 @@
 body {
-    background: #efefef;
+    background: #fafafa !important;
+}
+.footer{
+    background: #fff;
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+    width:100%;
+}
+.message.ng-enter{
+    -webkit-animation: zoomIn 1s;
+    -moz-animation:zoomIn 1s;
+    /*-ms-animation:zoomIn 1s;*/
+    animation:zoomIn 1s;
 }

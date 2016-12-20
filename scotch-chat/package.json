@@ -15,8 +15,7 @@
         "gulp-shell": "^0.2.9",
         "node-webkit-builder": "^1.0.8"
     },
-    //Window defines all the properties of the app's window
-    //including icons, sizes, toolber, frame, etc.
+
     "window": {
         "title": "scotch-chat",
         "toolbar": false,
