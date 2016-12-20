@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e452fcfb-c631-43cd-a812-44aec2dd7f06" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scotch-chat/app/app.js" afterPath="$PROJECT_DIR$/scotch-chat/app/app.js" />
     </list>
     <ignored path="ChatApp.iws" />
@@ -86,9 +87,15 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scotch-chat/app/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="54" column="3" selection-start-line="54" selection-start-column="3" selection-end-line="54" selection-end-column="3" />
-              <folding />
+            <state relative-caret-position="115">
+              <caret line="160" column="1" selection-start-line="160" selection-start-column="1" selection-end-line="160" selection-end-column="1" />
+              <folding>
+                <marker date="1482207609000" expanded="true" signature="1621:5230" ph="{...}" />
+                <marker date="1482207609000" expanded="true" signature="4199:4255" ph="{...}" />
+                <marker date="1482207609000" expanded="true" signature="4993:5227" ph="{...}" />
+                <marker date="1482207609000" expanded="true" signature="5113:5219" ph="{...}" />
+                <marker date="1482207609000" expanded="true" signature="5305:5406" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -330,12 +337,12 @@
       <option name="presentableId" value="Default" />
       <updated>1482103426458</updated>
       <workItem from="1482103428193" duration="8555000" />
-      <workItem from="1482195718508" duration="4921000" />
+      <workItem from="1482195718508" duration="8057000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13476000" />
+    <option name="totallyTimeSpent" value="16612000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="409" width="1280" height="415" extended-state="0" />
@@ -347,7 +354,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32817337" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.72136223" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -539,9 +546,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scotch-chat/app/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="54" column="3" selection-start-line="54" selection-start-column="3" selection-end-line="54" selection-end-column="3" />
-          <folding />
+        <state relative-caret-position="115">
+          <caret line="160" column="1" selection-start-line="160" selection-start-column="1" selection-end-line="160" selection-end-column="1" />
+          <folding>
+            <marker date="1482207609000" expanded="true" signature="1621:5230" ph="{...}" />
+            <marker date="1482207609000" expanded="true" signature="4199:4255" ph="{...}" />
+            <marker date="1482207609000" expanded="true" signature="4993:5227" ph="{...}" />
+            <marker date="1482207609000" expanded="true" signature="5113:5219" ph="{...}" />
+            <marker date="1482207609000" expanded="true" signature="5305:5406" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
