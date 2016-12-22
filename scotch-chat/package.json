@@ -26,7 +26,8 @@
         "width": 1000,
         "height": 600,
         "min_width": 600,
-        "min_height": 400
+        "min_height": 400,
+
     },
     "node-remote": "<local>"
 }

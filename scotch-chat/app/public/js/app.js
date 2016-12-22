@@ -6,7 +6,7 @@ var serverBaseUrl = 'http://127.0.0.1:2015';
 //services to interact with nodewebkit GUI and Window
 app.factory('GUI', function(){
     //return nw.gui
-    return window.require('nw.gui');
+    return require('nw.gui');
 });//app.factory
 
 app.factory('Window', function(GUI){
